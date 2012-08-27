@@ -55,3 +55,7 @@ call pathogen#infect()
 filetype plugin indent on
 
 nmap <F8> :TagbarToggle<CR>
+
+nmap <C-P> :tabp<CR>
+nmap <C-N> :tabn<CR>
+nmap <C-E> :tabe<CR>
