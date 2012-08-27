@@ -4,3 +4,6 @@
 [submodule "vim/supertab"]
 	path = vim/supertab
 	url = git://github.com/ervandew/supertab.git
+[submodule "vim/tagbar"]
+	path = vim/tagbar
+	url = git://github.com/majutsushi/tagbar.git
