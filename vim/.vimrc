@@ -54,4 +54,4 @@ set sidescroll=1
 call pathogen#infect()
 filetype plugin indent on
 
-
+nmap <F8> :TagbarToggle<CR>
